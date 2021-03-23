@@ -215,7 +215,7 @@ h6 {
     text-align: center;
 }
 
-.main__tittle {
+.main__title {
     margin: 15px 0;
     font-size: 1.8em;
     font-family: 'Satisfy', cursive;
@@ -231,7 +231,7 @@ h6 {
     padding: 10px;
 }
 
-.column__tittle {
+.column__title {
     font-size: 1.3em;
 }
 
@@ -250,7 +250,7 @@ h6 {
     margin: 10px auto;
 }
 
-.group__tittle {
+.group__title {
     font-family: 'Satisfy', cursive;
     text-align: center;
     font-weight: 100;
@@ -270,7 +270,7 @@ h6 {
     object-fit: cover;
 }
 
-.dietas-especiales__tittle {
+.dietas-especiales__title {
     text-align: center;
     font-size: 1.5em;
     padding-top: 10px;
@@ -389,10 +389,10 @@ h6 {
     .column--50-25 {
         width: 24%;
     }
-    .column__tittle {
+    .column__title {
         font-size: 1em;
     }
-    .group__tittle {
+    .group__title {
         font-size: 2.3em;
     }
 }
@@ -419,7 +419,7 @@ h6 {
     .banner__content {
         font-size: 3em;
     }
-    .column__tittle {
+    .column__title {
         font-size: 2.5em;
     }
     .icon-menu {
@@ -439,13 +439,13 @@ h6 {
         margin-bottom: 30px;
         padding: 20px;
     }
-    .main__tittle {
+    .main__title {
         font-size: 3em;
     }
     .main__about__description .column--50:nth-child(2) .column__txt {
         line-height: 50px;
     }
-    .dietas-especiales__tittle {
+    .dietas-especiales__title {
         font-size: 1.4em;
     }
     .dietas-especiales__price {
