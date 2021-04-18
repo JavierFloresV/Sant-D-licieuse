@@ -1,4 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Satisfy&display=swap');
+@font-face {
+    font-family: "Satisfy";
+    src: url(../fonts/Satisfy-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Dosis";
+    src: url(../fonts/Dosis-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Dosis";
+    font-weight: bold;
+    src: url(../fonts/Dosis-Bold.ttf);
+}
+
 
 /* GLOBAL */
 
@@ -338,7 +353,7 @@ h6 {
         align-items: flex-start;
     }
     .banner {
-        margin-top: -140px;
+        margin-top: -200px;
         z-index: -1500;
     }
     .banner__img {
